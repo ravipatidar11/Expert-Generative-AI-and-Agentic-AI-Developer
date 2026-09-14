@@ -1,0 +1,311 @@
+^^^ FSDS WITH AI, GEN AI & AGENTIC AI 
+^^^ Dt: 7th April @ 5:30pm
+=============
+^^^ Meeting Id: 2518 044 1801 & Pwd: 112233
+^^^ QR Code & Google Drive link --> 
+https://drive.google.com/drive/folders/1prrGzYzsRBdpVlZ6W54-eyLnb_46YavG
+============
+
+^^^^^^^ 7th April
+My Introduction
+Course syllabus Shared 
+Who can elligible to learn this course 
+Intro to Agentic AI Ide -- Cursor AI
+System configuration
+Learning stages from starting -- end stage(5-6month)
+Prerequisites to learning learn this course 
+Job Placement 
+
+^^^^^^^^^^ 8th
+The group which we created you will receive daily recording for next 10 days 
+demo session -- you watch the recording and covere the backup classes
+llm model are 2 part
+	text based model -- user enter a text gpt model generete text (generative ai)
+	multi model -- user enter text -- model generte image ( multimodel 
+
+you will prepare resume after , apply the job after the course 
+apply the job mid of the course ( we change project)
+freelancing job using this type course 
+IDE ( INTEGRATE DEVELOPMENT ENVIRONMENT)
+User write the code, | Run code | Get Error 
+Syntax error -- compile time error 
+Error which made by user ( compile time error) 
+full stack -- backend + frontend
+backend -- ml model ( ml model algorithm)
+			nlp model 
+			dl model 
+			llm model 
+frontend - ui ( meta.com) 
+without recording - 21k inr
+with recording - 27k inr 
+
+^^^^^^^^^ 9th
+Today onwards everyday we will code for 15-20 min
+New student -- i will take the 2 days class
+java, .net, manufacture, call center, bpos, kps, call center -- automized
+testing,coding , movie, songcont, reserarch  
+ai, datas, data enginn, cloud 
+2025 entire comap all words they fired 
+gpt, ai tools ( ai tooll work 10 emply workin in 5min) 
+
+job placement -->
+	6month of traning programe
+apply job 3months- first
+4month - 2nd time
+after -- 3time 
+nit -- placemnt ( you write the test) 
+
+chatgpt -- creat my sam altman (open ai)
+customgpt -- crate by mr. senapti 
+gpt -- generative pretrained transformer 
+
+^^^^^^^^^^ 10th
+python experties , ml exper -- 
+many non technica student also many experice python 
+i wil start from 0 level 
+if you know thats good. if you 
+installed jupyternotebook -- 
+learners who install jupyter notebook please opn that 
+cpu -- you install software inyour machine 
+gpu - you are using google ram 
+WILL TAKE THE BACKUP CLASSED
+I WILL SHARE 3 DAY RECORDING 
+basic python  -- easy 
+advanced python - medium
+oops python - hard 
+x = 10
+x is called object, variable, identifer 
+10 - value 
+
+^^^^^^ 11th 
+
+i do understan there are some experience peope 18yr, 20yr , 9yr, 7yr, 4yr, cto, ceo 
+i would requrest you to 
+-- if you start from scratch please continue this 
+-- i want you talk with me ( i will direct towar other basic are completed )
+statistics 
+90% non tech, non exp, -- stract 
+human intelligence -- 
+brain - connection of neuron ( neural network) 
+chipped in machine -- artificial intelligenece 
+ai -- technlgo whihc mimic human behavior 
+== mlops cicd pipeline 
+== mlops & cicd pipline 
+ml model -- mlflow -- deploy using cicd pipelien 
+action -- ml algorithm recommands you to wathc only action 
+amzon -- phone ( 10k) 
+ml algorith m ( gain more business profit)
+	amazon money will benefit 
+
+^^^^^ 14th 
+My introduction 
+what is name of subject ( course) fsds, ai, gen ai, agnenti 
+what are technical concpet i will teachn you
+prerequites need for this course
+laptop need to configured 
+who can elligible learn ( AI course already involve in school)
+6 months of learning path 
+
+^^^^^^ 15th 
+we are using python program to build gen ai project, ai project, ml mproject 
+cricket -- datascience domain 
+python - cricket
+batting -- ml 
+bowling - nlp 
+fielding - genai 
+everywhere python is required 
+if you learn only python course -- pycharm 
+datascience, gen ai, agenic ai , llm, ml, ai , mlop 
+best software toolkit 
+vscode 
+anaconda 
+jupyter 
+---- python from
+1st variable = identifier = object 
+next week -- ai app
+who week in tyuping - typemaster 
+python also called as identifier = object 
+---- syntx of variable declaration -->
+--- variable name = value 
+a = 10 
+----- 
+python variable createion -->
+-----
+1- variable never start with digit but it ends with digit 
+2- variables are case sensitive
+3- special character is not allowed except _ 
+4- key words or reserved words never be declaare as variable 
+		35 keywords
+if user has only 1 variable ( print is not required)
+if user has more then >1 variable ( print is required) 
+please complte your enrollment get the classrrom detail from prem
+python 
+datastruture 
+numpy, panda, matplotlib, seaborn
+stats
+sql
+ml -- 1st level of job 
+mlops & cicd 
+ai - nlp, dl, nn,
+gen ai -- 2d time job application 
+prompt engi
+agentic ai
+tableu & powerbi 
+azur ai 
+3rd time job application 
+
+^^^^^^^ 16th
+----
+agenda -->
+---
+1- python introduction 
+2- python data type, typecasting
+3- Install vs code & powerfull extension for datascientist project
+4- steps to download classnotes from the google classroom
+5- student query 
+python is object oriented programeint 
+python name comes from -- serial complete monty python flying circus 
+please instll today or else work with google colab 
+PVM (python virtual machine) 
+platform independent 
+write one code 
+same code -- can work in window os & same code can work in mac 
+software -- easily work same software in -- anaconda 
+company will buy licence for you 
+===
+1- python introduce completed 
+2- ide ( integrated development environment)
+		ide - write code, run code, debug the code
+			jupyter ide 
+			spyder ide
+			vs code ide
+3- python interpreter vs python compiler 
+	compiler -- compile all the code at once ( run all the code at once) 
+	interpreter -- run the code line by line
+4- python variable
+		variablename = value 
+		i = 10  ( a - variable 10- value ) 10 - INTEGER VALUE 
+		type(a) --- int
+		f = 10.3 --> f == float	
+5- data type borns from variable concept 
+	python datatypes
+		int - value without decimal 
+		float - value with decimal 
+		string - value with '' | " " | ''' '''
+		bool - True or False 
+		complex -- a + bj 
+string -- for single line -- which ' ' | " " 
+	multiline -- ''' ''' 
+string -->
+	assign text to the variable
+	define ' ' | " " | ''' ''' (multiline comments)
+---
+string indexing -->
+---
+forward indexing -- left to write  ( begins with 0)
+backward indexing -- right to left ( begins with -1) 
+6 month -- 6yr of workin profession knowledge 
+	1k+ studentare 
+4yr -- 6months
+please listen ( dont want )
+pract -- 4hr for your life, money , 
+money speak in the world
+		easy, medium & hard 
+		hard leve -- active list 
+please track all the class on dailo
+
+^^^^^^ 17th
+- python intro
+- python variable 
+- python datatype
+- python type casting 
+
+python function alwasy ends with ():
+
+fam - variable 
+fam3() -- define the fam3 function without argument or without parameter 
+fam1(d, m) - function  == fam1 function with 2 argument or 2paramter 
+fam2(d, m, s, d) -- fam2 function with 4 argument 
+1bhk house( sand, bricks, labour, ceme, iron, sft) - 6 paramer
+duplex house ( 
+llm model chatgpt(7bilion 
+
+what is variable ?
+what is function ?
+what is function without argument=parameter  ?
+what is function with argument =parameter 
+float datatype to int -- possbile 
+
+in typecasting from 
+other datatype(float,bool,string) to int ) possible except complex datatype 
+string -- only number string is allowed in type casting 
+
+other datatype to int -- completed
+
+other datatyps to float 
+other datatypes to complex 
+other dataypes to string 
+other datatype to bool 
+
+==== 
+
+so far we install ANACONDA 
+the learners who ever didnt install so please watch my youtube link 
+
+-- I will teach you how to install vs code & extenstion 
+-- how agentic ai will integrate to vs code 
+
+google - vs code - download - install 
+
+start - vscode - open
+ 1st - AREPL for python
+ 2nd - autoDocstring - Python Docstring Generator
+ 3rd - cline (autonomus ai agent) 
+ 4th - Code Runner
+ 5th - GitHub Copilot
+ 6th- GitLens — Git supercharged
+ 7th- IntelliCode
+ 8th- Jupyter
+ 9th- markdownlint
+ 10th- python
+ 11th- pdf viewer
+ 12th- Python Image Preview
+ 13th- Python Extension Pack
+ 14th- YAML
+ 15th- Office Viewer
+
+
+
+
+
+===== whats app group link | qr code  -->
+https://chat.whatsapp.com/CEJBBJSijJ8HlbcLBecwGa
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr. Prem -- 7997997901 
+Offline Admin 
+		- Mr.ajay--7997997808
+
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+Data Science link-2
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+Password - 112233
+OFFLINE METOR (3rd Floor) 
+
+Software Installation: https://youtu.be/PhIAQ8rE2xc?si=O-K1FHF_1a1FeT4o
+
+^^^^👉 Backup Videos:
+Day-1: https://youtu.be/yA4O1lgNT_k
+Day-2: https://youtu.be/85MviRM5mfw
+Day-3: https://youtu.be/nC5tYoJrlFg
+Day-4: https://youtu.be/MjgcGt2VKLo
+Day-5: https://youtu.be/srk3MrK7d7g
+Day-6: https://youtu.be/xkCNwLub33U
+Day-7: https://youtu.be/5ZX5z50U0ek
+Day-8: https://youtu.be/t-LmINc-egA
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^	
+	
+	
